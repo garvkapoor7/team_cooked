@@ -30,3 +30,7 @@ Here are the steps for createing buckets to creating notebook instances for this
 1. IAM
 2. S3 Bucket
 3. AWS Sagemaker
+
+
+#Here is the output of chatbot if asked a question:
+ ![Alt text](https://github.com/garvkapoor7/team_cooked/blob/main/AWS%20Images/output.png)
